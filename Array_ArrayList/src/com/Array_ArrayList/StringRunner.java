@@ -1,4 +1,4 @@
-package com;
+package com.Array_ArrayList;
 
 public class StringRunner {
 	public static void main(String[] args) {
