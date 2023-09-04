@@ -24,7 +24,7 @@ public class ComparatorInterface {
 class StudentComparator implements Comparator<StudentComparator> {
 
 	int age; // 나이
-	int classNumber; // 학급 
+	int classNumber; // 학급  
 
 	StudentComparator(int age, int classNumber) {
 		this.age = age;
